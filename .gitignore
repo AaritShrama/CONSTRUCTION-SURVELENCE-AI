@@ -1,0 +1,17 @@
+.venv/
+runs/
+events/
+
+__pycache__/
+*.pyc
+
+factory.mp4
+
+train/
+valid/
+test/
+
+*.zip
+
+yolov8n.pt
+yolo26n.pt
