@@ -1,6 +1,7 @@
 .venv/
 runs/
 events/
+violations/
 
 __pycache__/
 *.pyc
